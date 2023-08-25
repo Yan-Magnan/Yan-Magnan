@@ -4,7 +4,8 @@
 - 🔭 Atualemnte trabalhando com Teste de sistemas.
 - 🌱 Estudando ciência da computação e hacker ético.
 - 📫 Contate-me em: yanmagnan144@gmail.com
-- 📖 Script Kiddie em busca de conhecimentos
+- 📖 QA jr
+- Bug Hunter
 
 <div align="center">
   <a href="https://github.com/Yan-Magnan">
