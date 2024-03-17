@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Yan Magnan
 
 
-- 🔭 Atualemnte trabalhando com Teste de sistemas.
+- 🔭 Atualemnte trabalhando com Teste manuais e automatizados.
 - 🌱 Estudando ciência da computação e hacker ético.
 - 📫 Contate-me em: yanmagnan144@gmail.com
 - 📖 QA jr
